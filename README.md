@@ -1,2 +1,13 @@
-# tea-steel-zowie
-This is an X login implementation using xauth-login, twt-playground, and the twt-api withusername "Ignacio_Borer61"
+# X Login Implementation (Ignacio_Borer61)
+
+This Node.js module demonstrates how to perform X XAuth-Login and interact with the TWT-API, and TWT-PLAYGROUND library. This implementation using:
+
+- USERNAME: Ignacio_Borer61
+
+## Installation
+
+Make sure you have Node.js installed on your machine. You can install this module using npm:
+
+```bash
+npm install tea-steel-zowie
+```
